@@ -20,6 +20,7 @@ class script(object):
 
 🗂 1st database Files: <code>{}</code>
 🗳 1st files database used: <code>{}</code>
+🗂 1st Free Storage: <code>{}</code>
 
 🗂 2nd database Files: <code>{}</code>
 🗳 2nd files database used: <code>{}</code>
